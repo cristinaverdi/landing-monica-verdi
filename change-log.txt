@@ -1,0 +1,4 @@
+Version: 1.2.0 ---------- Date: 02 Nov 2019
+
+Added : Quick View (eCommerce)
+Fix: Product Details Bug Fix
